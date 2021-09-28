@@ -12,7 +12,6 @@ config/app.php
 ```bash
 'timezone' => 'Asia/Jakarta',
 'locale' => 'id',
-'faker_locale' => 'id_ID', // optional if you can use faker
 ```
 
 config/app.php (optional if you can use faker)
